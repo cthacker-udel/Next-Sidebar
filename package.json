@@ -4,7 +4,7 @@
   "description": "NextJS sidebar component, supports variable amount of links + icons!",
   "main": "index.ts",
   "scripts": {
-    "pub": "npm public --access public",
+    "pub": "npm publish --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
