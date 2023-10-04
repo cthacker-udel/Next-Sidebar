@@ -1,5 +1,5 @@
 {
-  "name": "next-sidebar",
+  "name": "@cthacker/next-sidebar",
   "version": "1.0.0",
   "description": "NextJS sidebar component, supports variable amount of links + icons!",
   "main": "index.ts",
