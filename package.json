@@ -1,0 +1,35 @@
+{
+  "name": "next-sidebar",
+  "version": "1.0.0",
+  "description": "NextJS sidebar component, supports variable amount of links + icons!",
+  "main": "index.ts",
+  "scripts": {
+    "pub": "npm public --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cthacker-udel/Next-Sidebar.git"
+  },
+  "keywords": [
+    "nextjs",
+    "sidebar",
+    "react",
+    "typescript",
+    "reactTS",
+    "nextjs-link",
+    "css"
+  ],
+  "author": "cthacker-udel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cthacker-udel/Next-Sidebar/issues"
+  },
+  "homepage": "https://github.com/cthacker-udel/Next-Sidebar#readme",
+  "dependencies": {
+    "@types/react": "^18.2.24",
+    "next": "^13.5.4",
+    "react": "^18.2.0",
+    "ts-key-enum": "^2.0.12"
+  }
+}
